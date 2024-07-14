@@ -35,9 +35,11 @@ python main.py
 ## Citation
 ```
 @article{wu2024dettoolchain,
-  title={Dettoolchain: A new prompting paradigm to unleash detection ability of mllm},
+  title={Dettoolchain: A new prompting paradigm to unleash detection ability of MLLM},
   author={Wu, Yixuan and Wang, Yizhou and Tang, Shixiang and Wu, Wenhao and He, Tong and Ouyang, Wanli and Wu, Jian and Torr, Philip},
-  journal={arXiv preprint arXiv:2403.12488},
+  journal={arXiv preprint arXiv:2403.12488
+        
+        },
   year={2024}
 }
 ```
